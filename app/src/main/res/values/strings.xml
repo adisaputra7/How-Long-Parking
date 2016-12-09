@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="bill_summary" formatted="false">Total : $%d\nThanks You</string>
+</resources>
